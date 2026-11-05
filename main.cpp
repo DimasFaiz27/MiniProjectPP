@@ -7,4 +7,5 @@ string buku[5] = {
     "Matematika Diskrit",
     "Struktur Data",
     "Pengantar Ilmu Komputer"
+    "Testing "
 };
